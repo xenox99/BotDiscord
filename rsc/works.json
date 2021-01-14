@@ -1,0 +1,99 @@
+[
+    {
+        "courseId": "220653936105",
+        "id": "220653936108",
+        "title": "Tarea1 Clase2",
+        "description": "nada\nnada\nnada",
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MjIwNjUzOTM2MTA1/a/MjIwNjUzOTM2MTA4/details",
+        "creationTime": "2021-01-03T02:21:36.187Z",
+        "updateTime": "2021-01-03T02:21:46.321Z",
+        "maxPoints": 100,
+        "workType": "ASSIGNMENT",
+        "submissionModificationMode": "MODIFIABLE_UNTIL_TURNED_IN",
+        "assigneeMode": "ALL_STUDENTS",
+        "creatorUserId": "104941562629528925354"
+    },
+    {
+        "courseId": "185793081400",
+        "id": "218820495489",
+        "title": "PruebaQuiz - editado",
+        "description": "Instruccion1",
+        "materials": [
+            {
+                "form": {
+                    "formUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdyC3Mq5R3XF1mUyZb586ML9OX2WHgoscCWFI8p2rhfLejOHw/viewform",
+                    "title": "Prueba1",
+                    "thumbnailUrl": "https://lh3.googleusercontent.com/pqlhKtXXO71QRf1UXABFzX8pk5ak0NBI2s6aOm1qwzUQ7xOLaGMnU83kQw_zGM4yLfwLbDY=w90-h90-p"
+                }
+            }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTg1NzkzMDgxNDAw/a/MjE4ODIwNDk1NDg5/details",
+        "creationTime": "2020-12-15T03:33:35.925Z",
+        "updateTime": "2021-01-07T03:28:21.401Z",
+        "dueDate": {
+            "year": 2021,
+            "month": 1,
+            "day": 31
+        },
+        "dueTime": {
+            "hours": 2,
+            "minutes": 59
+        },
+        "maxPoints": 100,
+        "workType": "ASSIGNMENT",
+        "submissionModificationMode": "MODIFIABLE_UNTIL_TURNED_IN",
+        "assigneeMode": "ALL_STUDENTS",
+        "creatorUserId": "104941562629528925354"
+    },
+    {
+        "courseId": "185793081400",
+        "id": "223538748758",
+        "title": "Tarea con Tiempo",
+        "description": "instruc1",
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTg1NzkzMDgxNDAw/a/MjIzNTM4NzQ4NzU4/details",
+        "creationTime": "2021-01-07T02:59:51.045Z",
+        "updateTime": "2021-01-07T03:00:35.206Z",
+        "dueDate": {
+            "year": 2021,
+            "month": 2,
+            "day": 1
+        },
+        "dueTime": {
+            "hours": 2,
+            "minutes": 59
+        },
+        "maxPoints": 100,
+        "workType": "ASSIGNMENT",
+        "submissionModificationMode": "MODIFIABLE_UNTIL_TURNED_IN",
+        "assigneeMode": "ALL_STUDENTS",
+        "creatorUserId": "104941562629528925354",
+        "topicId": "185952579957"
+    },
+    {
+        "courseId": "185793081400",
+        "id": "185797951359",
+        "title": "PrimerTarea",
+        "description": "paso1\npaso2\npaso3",
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTg1NzkzMDgxNDAw/a/MTg1Nzk3OTUxMzU5/details",
+        "creationTime": "2020-12-15T01:48:26.537Z",
+        "updateTime": "2020-12-15T01:49:04.054Z",
+        "dueDate": {
+            "year": 2020,
+            "month": 12,
+            "day": 31
+        },
+        "dueTime": {
+            "hours": 2,
+            "minutes": 59
+        },
+        "maxPoints": 100,
+        "workType": "ASSIGNMENT",
+        "submissionModificationMode": "MODIFIABLE_UNTIL_TURNED_IN",
+        "assigneeMode": "ALL_STUDENTS",
+        "creatorUserId": "104941562629528925354"
+    }
+]

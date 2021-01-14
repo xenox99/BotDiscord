@@ -1,5 +1,5 @@
-rsc
-credentials.json
-credentials-classroom.json
+#rsc
+#credentials.json
+#credentials-classroom.json
 token.pickle
 tokenclass.pickle
