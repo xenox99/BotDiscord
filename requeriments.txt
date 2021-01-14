@@ -1,0 +1,7 @@
+__future__
+discord
+pickle
+pytz
+googleapiclient
+google_auth_oauthlib
+google
